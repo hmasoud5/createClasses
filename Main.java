@@ -8,6 +8,7 @@ class Main {
     System.out.println(s.sumOf());
     // will print out 25 because it is added from the Sum.java class
     // new variable "s" included within print statement
+    //this variable will print out only the sum
 
     Subtract m = new Subtract(14, 16);
     // two variables that will subtract to eachother
