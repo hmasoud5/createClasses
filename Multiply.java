@@ -14,5 +14,6 @@ public class Multiply
   public int MultiplyOf()
   {
   return num1 * num2; 
+   //num1 multiplied by num2
   }
 }

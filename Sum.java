@@ -15,5 +15,6 @@ public Sum(int number1, int number2)
 public int sumOf()
 {
  return num1 + num2; 
+  //num1 added by num2
  }
 }

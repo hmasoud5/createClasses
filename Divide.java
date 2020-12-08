@@ -14,5 +14,6 @@ public class Divide
   public int DivideOf()
   {
   return num1 / num2; 
+  //num1 divided by num2
   }  
 }

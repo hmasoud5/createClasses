@@ -12,6 +12,7 @@ public class Subtract {
   // behaviors--methods
   public int SubtractOf() {
     return num1 - num2;
+     //num1 subtracted by by num2
   }
 
 }
